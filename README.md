@@ -1,91 +1,108 @@
-🌐 Coloay — Speed, Style, Success
-Welcome to Coloay, a cutting-edge web development platform designed to empower clients with stunning websites, tailor-made to their needs — fast, stylish, and scalable.
+# 🌐 Coloay — Speed, Style, Success
 
-<!-- Optional image if you have a banner or screenshot -->
+Welcome to **Coloay**, a cutting-edge web development platform designed to empower clients with stunning websites — tailor-made to their needs. Fast, stylish, and scalable.
 
-🚀 Live Demo
-🌍 Visit Website
+---
 
-📌 About Coloay
-Coloay is a full-service web solution for clients who want complete control over their website design and functionality. Whether you're a startup, freelancer, or established business — Coloay gives you the speed of development, elegance in design, and backend integration support with ease.
+## 🚀 Live Demo
 
-✨ Features
-⚡ Lightning-fast performance (Vite + React)
+🌍 [Visit Website] -> https://sahil980427.github.io/coloay/
 
-🎨 Modern UI/UX with responsive design
+---
 
-🧠 Interactive animations (Framer Motion / GSAP)
+## 📌 About Coloay
 
-🧩 Modular, reusable React components
+**Coloay** is a full-service web solution built for startups, freelancers, and businesses who demand complete control over design, speed, and backend functionality. Whether it's a sleek landing page or a robust multi-page platform, Coloay delivers with style and performance.
 
-🛡️ Integrated backend-ready structure
+---
 
-📬 Functional Contact Form using EmailJS
+## ✨ Features
 
-🔒 Secure & Scalable project architecture
+- ⚡ Lightning-fast performance (Vite + React)
+- 🎨 Modern UI/UX with fully responsive design
+- 🧠 Interactive animations (Framer Motion)
+- 🧩 Modular, reusable React components
+- 🛡️ Integrated backend-ready structure
+- 📬 Functional contact form using EmailJS
+- 🔒 Secure & scalable project architecture
 
-🛠️ Tech Stack
-Frontend	Tools / Libraries
-React.js	Vite, React Icons, EmailJS
-UI / Anim	CSS Modules, Framer Motion, GSAP
-Hosting	Vercel / Netlify (recommended)
+---
 
-📂 Folder Structure
-pgsql
-Copy
-Edit
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js (with Vite)
+- React Icons
+- EmailJS
+
+**UI & Animations:**
+- CSS Modules
+- Framer Motion
+
+**Hosting:**
+- github pages
+
+---
+
+## 📂 Folder Structure
+
 Coloay/
 ├── public/
 ├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── pages/
-│   ├── App.jsx
-│   └── index.js
+│ ├── components/
+│ ├── assets/
+│ ├── pages/
+│ ├── App.jsx
+│ └── index.js
 ├── .gitignore
 ├── package.json
 ├── vite.config.js
 └── README.md
-📨 Contact Form Integration
-Powered by EmailJS — users can directly send messages from the frontend without needing a backend. Optional fields like phone are also supported.
 
-🔧 Setup Instructions
-Clone the repo
+---
 
-bash
-Copy
-Edit
+## 📨 Contact Form Integration
+
+The contact form is fully powered by **EmailJS**, allowing users to send messages directly from the frontend — no backend required. Name, email, and message are required. Phone number is optional.
+
+---
+
+## 🔧 Setup Instructions
+
+Clone the repo:
+
+```bash
 git clone https://github.com/yourusername/Coloay.git
 cd Coloay
-Install dependencies
+Install dependencies:
 
 bash
 Copy
 Edit
 npm install
-Run the app
-
-bash
-Copy
-Edit
+Run the app:
 npm run dev
-Configure EmailJS
+Configure EmailJS:
 
-Go to emailjs.com
+Go to https://emailjs.com
 
-Add your service ID, template ID, and public key in your code.
+Create a service and template
+
+Add your Service ID, Template ID, and Public Key in your .env or code file
 
 📸 Screenshots
-<!-- Add actual screenshots if available -->
+<img width="1864" height="849" alt="image" src="https://github.com/user-attachments/assets/df0f12be-f23f-433d-a353-7b0b2ab1ab14" />
 
 
 🤝 Contributing
-Feel free to fork this project and submit pull requests if you want to improve or add new components.
+Contributions are welcome!
+Feel free to fork the repo, create a feature branch, and submit a pull request.
 
 🧑‍💻 Author
 Sahil
-🔗 LinkedIn
-🌐 Portfolio
 
 📄 License
-MIT License © 2025 Sahil
+MIT License
+© 2025 Sahil — All rights reserved.
+
+---
